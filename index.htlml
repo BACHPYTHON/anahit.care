@@ -3,41 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Site en construction</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        header {
-            margin-top: 100px;
-        }
-        img {
-            max-width: 200px;
-            margin-bottom: 20px;
-        }
-        p {
-            font-size: 18px;
-            margin: 10px 0;
-        }
-        a {
-            color: #0066cc;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+    <title>Anahit Care - Coming Soon</title>
 </head>
 <body>
-    <header>
-       <img src="https://raw.githubusercontent.com/BACHPYTHON/anahit.care/main/logoanahitcareCouleur.png" alt="Logo Anahit Care">
-        <p>Notre site est actuellement en construction.</p>
-        <p>Pour nous contacter, écrivez-nous à : <a href="mailto:consult@anahit.care">consult@anahit.care</a></p>
-    </header>
+    <h1>Anahit Care</h1>
+    <img src="https://raw.githubusercontent.com/BACHPYTHON/anahit.care/main/logoanahitcareCouleur.png" alt="Logo Anahit Care">
+    <p>Le site est en construction. Pour nous contacter, envoyez un email à <a href="mailto:consult@anahit.care">consult@anahit.care</a>.</p>
 </body>
 </html>
