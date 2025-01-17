@@ -35,7 +35,7 @@
 </head>
 <body>
     <header>
-       <img src="anahit.care/logoanahitcareCouleur.png" alt="Logo de Anahit Care" style="width: 300px;">
+       <img src="anahit.care/logoanahitcareCouleur.png" alt="Logo Anahit Care" style="max-width: 100%; height: auto;">
         <p>Notre site est actuellement en construction.</p>
         <p>Pour nous contacter, écrivez-nous à : <a href="mailto:consult@anahit.care">consult@anahit.care</a></p>
     </header>
